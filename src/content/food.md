@@ -9,6 +9,8 @@ Mate is an Argentinian infusion (kind of the english equivalent of tea). We have
 
 There are many ways to drink it: Some people sweeten it with honey or sugar. Others drink it "as it is". Some have it cold.
 
+**In some cases you can observe argentinian specimens having mate during Standup meetings and Backlog Groomings**. It's part of their morning ritual...
+
 https://www.youtube.com/watch?v=ejSS5s7iO40
 
 ## Asado
@@ -16,3 +18,9 @@ https://www.youtube.com/watch?v=ejSS5s7iO40
 Our version of barbecue. We don't cook it with fire, but with the heat of coal instead. It is cooked slowly to prevent it from being burned on the outside and raw on the inside. We **never** have it _rare_. Meat can be juicy but never red on the inside 🙅‍♂️.
 
 https://www.youtube.com/watch?v=cib19tj8yCI
+
+## Empanadas
+
+Argentinians base food. They are too practical to take for lunch anywhere.
+
+https://www.youtube.com/watch?v=Bg0-b8rFKhk

@@ -26,7 +26,7 @@ export default function Sidebar() {
 			<ul>
 				{links.map(({ frontmatter: { title, path } }) => (
 					<li key={path}>
-						<Link to={path}>{title}</Link>
+						<Link activeClassName="active" to={path}>{title}</Link>
 					</li>
 				))}
 			</ul>

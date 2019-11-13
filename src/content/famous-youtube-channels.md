@@ -38,12 +38,31 @@ https://www.youtube.com/watch?v=8OIQRvo0GME
 
 **LocosPorElAsado**
 
-All about barbecue  
+All about argentinian asado
+
 https://www.youtube.com/watch?v=Oxe0CunW2cE
 
 **PaulinaCocina**
 
 https://www.youtube.com/watch?v=N_PcT2diLcM
+
+---
+
+## Tech reviews
+
+**SupraPixel**
+
+https://www.youtube.com/watch?v=ktLJGCztcJQ
+
+---
+
+## Parodies About Politics and Society
+
+**GillermoAquino**
+
+https://www.youtube.com/watch?v=D00nbRQW6VM
+
+---
 
 ## Misc
 

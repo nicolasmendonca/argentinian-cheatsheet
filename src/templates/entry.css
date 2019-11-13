@@ -1,5 +1,5 @@
 .blog-post {
-	margin-left: 300px;
+	margin-left: 350px;
 	margin-right: 20px;
 	padding-top: 20px;
   width: 60%;
@@ -8,4 +8,8 @@
 
 .blog-post iframe {
   min-height: 500px;
+}
+
+.blog-post img {
+  max-width: 100%;
 }

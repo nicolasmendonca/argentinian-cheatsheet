@@ -24,3 +24,5 @@ It has become so well known, that we kind of adopted it as part of our culture.
 Six short stories that explore the extremities of human behavior involving people in distress.
 
 [IMDB](https://www.imdb.com/title/tt3011894/)
+
+![movie poster](https://picfiles.alphacoders.com/143/143146.jpg)

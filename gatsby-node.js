@@ -1,7 +1,14 @@
 const path = require(`path`);
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
-	const { createPage } = actions;
+	const { createPage, createRedirect } = actions;
+
+	createRedirect({
+		fromPath: '/',
+		isPermanent: true,
+		redirectInBrowser: true,
+		toPath: '/food'
+	})
 
 	const blogPostTemplate = path.resolve(`src/templates/entry.js`);
 
