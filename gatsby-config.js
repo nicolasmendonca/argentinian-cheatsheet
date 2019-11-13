@@ -65,10 +65,4 @@ var options = {
 	],
 };
 
-if (process.env.NODE_ENV === 'production') {
-	// this (optional) plugin enables Progressive Web App + Offline functionality
-	// To learn more, visit: https://gatsby.dev/offline
-	options.plugins.push('gatsby-plugin-offline');
-}
-
 module.exports = options;
