@@ -35,6 +35,13 @@ var options = {
 			},
 		},
 		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `images`,
+				path: `${__dirname}/src/images/`,
+			},
+		},
+		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
 				plugins: [
@@ -59,6 +66,7 @@ var options = {
 						// },
 					},
 					'gatsby-remark-embedder',
+					'gatsby-remark-images'
 				],
 			},
 		},
