@@ -17,8 +17,6 @@ https://www.youtube.com/watch?v=78H_YPqNuCo
 
 ## Trending Right Now
 
-Argentina's Justin Bieber?
-
 https://www.youtube.com/watch?v=NPpELzyP4rw&list=RDNPpELzyP4rw&start_radio=1
 
 Right now rappers are trending in Argentina 🤷🏻‍♂️

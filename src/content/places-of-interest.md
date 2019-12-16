@@ -27,3 +27,23 @@ Due to global warming, the glacier is shrinking and is moving away from the balc
 Until 2006, it has been the widest street in the world (460 feet). Until Brasil's Eje Monumental (820 feet) won that title.
 
 ![9 de julio](https://ugc.kn3.net/i/760x/https://www.buenosaires.travel/wp-content/buenosaires_uploads/avenida-9-de-julio-801x563.jpg)
+
+## Bariloche
+
+![Bariloche](https://www.lugaresturisticosdeargentina.com/wp-content/uploads/2018/05/bariloche-nieve-2017-696x392.jpg)
+
+
+This city is surrounded by national parks, lakes, rivers, mountains. It's the birthplace of our local craft beer, and one of the best places to eat cordero patagonico.
+
+![Cordero Patagonico](https://t3.kn3.net/taringa/0/3/8/0/8/1/keko18_m/E5B.jpg)
+
+
+## Ushuaia
+
+Is the most southern city of the world. Famous by "The Lighthouse at the End of the World", glaciers, and a top-security prison (abandoned many years ago).
+
+![Ushuaia](https://www.lugaresturisticosdeargentina.com/wp-content/uploads/2018/05/Ushuaia-1200_opt-696x290.jpg)
+
+## Valle de la Luna (Moon's Valley)
+
+![Valle de La Luna](https://storage.googleapis.com/chile-travel-static-content/2016/04/Valle-de-la-Luna-shutterstock-ATR78.jpg)

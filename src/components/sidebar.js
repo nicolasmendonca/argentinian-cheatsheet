@@ -20,7 +20,7 @@ export default function Sidebar() {
 	return (
 		<nav className="sidebar">
 			<p className="title">
-				<span className="arg-flag">🇦🇷</span>
+				<span className="arg-flag" role="img" aria-label="argentinian-flag">🇦🇷</span>
 				Cheatsheet
 			</p>
 			<ul>
