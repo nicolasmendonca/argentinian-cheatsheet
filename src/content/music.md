@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=NPpELzyP4rw&list=RDNPpELzyP4rw&start_radio=1
 
 Right now rappers are trending in Argentina 🤷🏻‍♂️
 
+Lali Esposito - Argentina's pop queen 👑
+
+https://www.youtube.com/watch?v=aDJfSGHAdE0
+
 https://www.youtube.com/watch?v=FRthkpJ_NFo
 
 https://www.youtube.com/watch?v=b-WbKJJjetQ
